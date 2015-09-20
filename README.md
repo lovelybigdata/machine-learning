@@ -1,4 +1,16 @@
 * [mikeizbicki/HLearn](https://github.com/mikeizbicki/HLearn/)
+* [scikit-learn](http://scikit-learn.org/stable/)
+
+##Index
+* 入門
+* 確率
+* 回帰分析
+* ニューラルネットワーク
+* SVM
+* 次元圧縮
+* グラフィカルモデル
+* マルコフモデル
+* モデル選択
 
 ##入門
 * [Pattern Recognition and Machine Learning](http://www.rmki.kfki.hu/~banmi/elte/Bishop%20-%20Pattern%20Recognition%20and%20Machine%20Learning.pdf)
