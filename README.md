@@ -142,3 +142,4 @@
 * [Parallelized Stochastic Gradient Descent](http://martin.zinkevich.org/publications/nips2010.pdf)
 * [A Stochastic Gradient Method with an Exponential Convergence Rate for Strongly-Convex Optimization with Finite Training Sets](https://hal.inria.fr/file/index/docid/715015/filename/sag_arxiv.pdf)
 * [Hogwild!: A Lock-Free Approach to Parallelizing Stochastic Gradient Descent](http://www.eecs.berkeley.edu/~brecht/papers/hogwildTR.pdf)
+* [制限付きボルツマンマシンの初心者向けガイド](http://postd.cc/a-beginners-guide-to-restricted-boltzmann-machines/)
