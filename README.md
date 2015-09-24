@@ -22,6 +22,11 @@
 * [Strava dataset](http://labs.strava.com/)
 * [caesar0301/awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets)
 
+##R
+* [HaskellR](http://tweag.github.io/HaskellR/)
+* [Programming R at native speed using Haskell](http://www.tweag.io/blog/programming-r-at-native-speed-using-haskell)
+* [How to include R plots and diagrams in blog posts](http://www.corentindupont.info/blog/posts/Programming/2015-09-14-diagrams.html)
+
 ##確率分布
 * [random-fu](https://hackage.haskell.org/package/random-fu)
 
