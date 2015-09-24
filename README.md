@@ -143,3 +143,4 @@
 * [A Stochastic Gradient Method with an Exponential Convergence Rate for Strongly-Convex Optimization with Finite Training Sets](https://hal.inria.fr/file/index/docid/715015/filename/sag_arxiv.pdf)
 * [Hogwild!: A Lock-Free Approach to Parallelizing Stochastic Gradient Descent](http://www.eecs.berkeley.edu/~brecht/papers/hogwildTR.pdf)
 * [制限付きボルツマンマシンの初心者向けガイド](http://postd.cc/a-beginners-guide-to-restricted-boltzmann-machines/)
+* [数式で書き下す Convolutional Neural Networks (CNN)](http://blog.yusugomori.com/post/129688163130/%E6%95%B0%E5%BC%8F%E3%81%A7%E6%9B%B8%E3%81%8D%E4%B8%8B%E3%81%99-convolutional-neural-networks-cnn)
