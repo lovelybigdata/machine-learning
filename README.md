@@ -21,6 +21,7 @@
 ##データセット
 * [Strava dataset](http://labs.strava.com/)
 * [caesar0301/awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets)
+* [delight-im/FreeGeoDB](https://github.com/delight-im/FreeGeoDB)
 
 ##R
 * [HaskellR](http://tweag.github.io/HaskellR/)
