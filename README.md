@@ -156,3 +156,5 @@
 * [Neural CRF Parsing](http://chasen.org/~daiti-m/paper/snlp7-neuralcrf.pdf)
 * [edobashira/speech-language-processing](https://github.com/edobashira/speech-language-processing)
 * [JPMoresmau/rnn](https://github.com/JPMoresmau/rnn)
+* [Lecture notes on ridge regression](http://arxiv.org/abs/1509.09169)
+* [An Introduction to Twisted Particle Filters and Parameter Estimation in Non-linear State-space Models](http://arxiv.org/abs/1509.09175)
