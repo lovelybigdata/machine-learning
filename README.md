@@ -158,3 +158,4 @@
 * [JPMoresmau/rnn](https://github.com/JPMoresmau/rnn)
 * [Lecture notes on ridge regression](http://arxiv.org/abs/1509.09169)
 * [An Introduction to Twisted Particle Filters and Parameter Estimation in Non-linear State-space Models](http://arxiv.org/abs/1509.09175)
+* [cmusatyalab/openface](https://github.com/cmusatyalab/openface)
