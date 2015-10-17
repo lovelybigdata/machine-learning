@@ -159,3 +159,5 @@
 * [Lecture notes on ridge regression](http://arxiv.org/abs/1509.09169)
 * [An Introduction to Twisted Particle Filters and Parameter Estimation in Non-linear State-space Models](http://arxiv.org/abs/1509.09175)
 * [cmusatyalab/openface](https://github.com/cmusatyalab/openface)
+* [Gradient-based Hyperparameter Optimization through Reversible Learning](http://arxiv.org/abs/1502.03492)
+* [「スプラトゥーン」リアルタイム画像解析ツール 「IkaLog」の裏側](http://www.slideshare.net/TakeshiHasegawa1/20151016ssmjpikalog)
