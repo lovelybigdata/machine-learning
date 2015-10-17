@@ -161,3 +161,4 @@
 * [cmusatyalab/openface](https://github.com/cmusatyalab/openface)
 * [Gradient-based Hyperparameter Optimization through Reversible Learning](http://arxiv.org/abs/1502.03492)
 * [「スプラトゥーン」リアルタイム画像解析ツール 「IkaLog」の裏側](http://www.slideshare.net/TakeshiHasegawa1/20151016ssmjpikalog)
+* [統計数理研究所](https://www.youtube.com/channel/UCi0d34-fr49EQC9gfIIh9_Q)
