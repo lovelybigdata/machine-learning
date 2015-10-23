@@ -12,6 +12,7 @@
 ##ライブラリ
 ###Haskell
 * [mikeizbicki/HLearn](https://github.com/mikeizbicki/HLearn/)
+* [bmsherman/haskell-matlab](https://github.com/bmsherman/haskell-matlab)
 
 ###Python
 * [scikit-learn](http://scikit-learn.org/stable/)
