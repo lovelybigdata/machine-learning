@@ -165,3 +165,4 @@
 * [統計数理研究所](https://www.youtube.com/channel/UCi0d34-fr49EQC9gfIIh9_Q)
 * [andrewt3000/DL4NLP](https://github.com/andrewt3000/DL4NLP)
 * [IDSIA/brainstorm](https://github.com/IDSIA/brainstorm)
+* [The riak package](https://hackage.haskell.org/package/riak)
