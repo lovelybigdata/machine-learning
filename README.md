@@ -166,3 +166,4 @@
 * [andrewt3000/DL4NLP](https://github.com/andrewt3000/DL4NLP)
 * [IDSIA/brainstorm](https://github.com/IDSIA/brainstorm)
 * [The riak package](https://hackage.haskell.org/package/riak)
+* [emmanueldenloye/manifoldRNC](https://github.com/emmanueldenloye/manifoldRNC)
