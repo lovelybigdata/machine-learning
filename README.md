@@ -167,3 +167,4 @@
 * [IDSIA/brainstorm](https://github.com/IDSIA/brainstorm)
 * [The riak package](https://hackage.haskell.org/package/riak)
 * [emmanueldenloye/manifoldRNC](https://github.com/emmanueldenloye/manifoldRNC)
+* [Girsanov’s Theorem](https://idontgetoutmuch.wordpress.com/2015/10/31/girsanovs-theorem/)
