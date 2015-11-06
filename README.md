@@ -170,3 +170,4 @@
 * [Girsanov’s Theorem](https://idontgetoutmuch.wordpress.com/2015/10/31/girsanovs-theorem/)
 * [MCMC講義（伊庭幸人） 難易度★★](https://www.youtube.com/watch?v=-H28H1unn0M)
 * [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning)
+* [グラフィカルモデリングをまとめてみた。](http://qiita.com/shogiai/items/815c619874af3bb92b6c)
