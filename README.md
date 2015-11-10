@@ -138,7 +138,7 @@
 * [Expectation Particle Belief Propagation](http://arxiv.org/abs/1506.05934)
 * [Statistical depth meets computational geometry: a short survey](http://arxiv.org/abs/1508.03828)
 * [コンテンツを見ないコンテンツ内容理解](http://www.brl.ntt.co.jp/people/akisato/pdf/asj14spring140310.pdf)
-* [SmartNewsを支える機械学習](http://sarvagyavaish.github.io/FlappyBirdRL/)
+* [Flappy Bird RL](http://sarvagyavaish.github.io/FlappyBirdRL/)
 * [A Course in Machine Learning](http://ciml.info/)
 * [DanielRapp/doppler](https://github.com/DanielRapp/doppler)
 * [劣微分を用いた最適化手法について(1)](http://research.preferred.jp/2010/11/subgradient-optimization-1/)
