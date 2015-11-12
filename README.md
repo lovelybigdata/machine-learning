@@ -173,3 +173,7 @@
 * [グラフィカルモデリングをまとめてみた。](http://qiita.com/shogiai/items/815c619874af3bb92b6c)
 * [TensorFlow](http://tensorflow.org/)
 * [Stat 260/CS 294-102. Learning in Sequential Decision Problems.](http://www.stat.berkeley.edu/~bartlett/courses/2014fall-cs294stat260/lectures/thompson-notes.pdf)
+* <https://github.com/nlintz/TensorFlow-Tutorials>
+* <https://github.com/Microsoft/DMTK>
+* <https://github.com/Yelp/paasta>
+* <https://github.com/Samsung/veles>
