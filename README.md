@@ -177,3 +177,4 @@
 * <https://github.com/Microsoft/DMTK>
 * <https://github.com/Yelp/paasta>
 * <https://github.com/Samsung/veles>
+* [TensorFlowを社内向けにざっくりLTして回帰した(＋資料とか)](http://yamitzky.hatenablog.com/entry/2015/11/11/204416)
