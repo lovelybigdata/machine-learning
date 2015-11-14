@@ -52,6 +52,16 @@
 * [Deep learning via Hessian-free optimization](http://machinelearning.wustl.edu/mlpapers/paper_files/icml2010_Martens10.pdf)
 * [Deep learning](http://www.slideshare.net/kazoo04/deep-learning-15097274)
 * [一般向けのDeep Learning](http://www.slideshare.net/pfi/deep-learning-22350063)
+* [Chainerで機械学習と戯れる: Treasureゲームの強化学習を110日程続けた経過メモ](http://qiita.com/mokemokechicken/items/9c933a4c580d00fc8cb9)
+
+###Tensor Flow
+* [Neural Networkをちょっとかじった人のための、はじめてのTensorFlow](http://qiita.com/sergeant-wizard/items/55256ac6d5d8d7c53a5a)
+* [TensorFlow 畳み込みニューラルネットワークで手書き認識率99.2%の分類器を構築](http://qiita.com/haminiku/items/36982ae65a770565458d)
+* [TensorFlow ってなんだろ](http://qiita.com/shuhei_f/items/5ba61fff4e47e073c24f)
+* [TensorFlowとTensorBoardでニューラルネットワークを可視化](http://qiita.com/sergeant-wizard/items/fdf4d64a0d221a81da34)
+* [TensorFlowのコード分割の考え方](http://qiita.com/sergeant-wizard/items/98ce0993a195475fd7a9)
+* [TensorFlow紹介文の適当和訳 ななめ読み用](http://qiita.com/tomo_makes/items/af23c1ac0d94b764da55)
+* [TesnsorFlowで深層学習像が変わる？少し触って思った事](http://qiita.com/n_kats_/items/ba7f19701e39d8ff1f6c)
 
 ##クラス分類
 * [Factorization Machines](http://www.ismll.uni-hildesheim.de/pub/pdfs/Rendle2010FM.pdf)
