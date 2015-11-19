@@ -191,3 +191,4 @@
 * [Get a Brain](http://www-cs-students.stanford.edu/~blynn//haskell/brain.html)
 * [MIT、マルコフ連鎖モンテカルロ法を高速化するアルゴリズムを発表](http://japan.zdnet.com/article/35073667/)
 * [nivwusquorum/tensorflow-deepq](https://github.com/nivwusquorum/tensorflow-deepq)
+* [数式で書き下す Maxout Networks](http://blog.yusugomori.com/post/133257383300/%E6%95%B0%E5%BC%8F%E3%81%A7%E6%9B%B8%E3%81%8D%E4%B8%8B%E3%81%99-maxout-networks)
