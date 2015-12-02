@@ -194,3 +194,4 @@
 * [数式で書き下す Maxout Networks](http://blog.yusugomori.com/post/133257383300/%E6%95%B0%E5%BC%8F%E3%81%A7%E6%9B%B8%E3%81%8D%E4%B8%8B%E3%81%99-maxout-networks)
 * <https://twitter.com/mcarberg/status/664750004742000640>
 * [bugspots (Google のバグ予測アルゴリズム)を3ヶ月くらい運用してみた話](http://shanon-tech.blogspot.jp/2015/11/bugspots-google-3.html)
+* [プリキュアで学ぶ劣モジュラ関数](http://tasusu.hatenablog.com/entry/2015/12/01/000608)
