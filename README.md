@@ -196,3 +196,5 @@
 * [bugspots (Google のバグ予測アルゴリズム)を3ヶ月くらい運用してみた話](http://shanon-tech.blogspot.jp/2015/11/bugspots-google-3.html)
 * [プリキュアで学ぶ劣モジュラ関数](http://tasusu.hatenablog.com/entry/2015/12/01/000608)
 * [Naive Particle Smoothing is Degenerate](https://idontgetoutmuch.wordpress.com/2015/12/06/naive-particle-smoothing-is-degenerate/)
+* [Add ALL the Things: Abstract Algebra Meets Analytics](http://www.infoq.com/presentations/abstract-algebra-analytics#.VmabF3UJklw.twitter)
+* [ストリームデータ解析の世界](http://takuti.me/note/data-stream-mining/)
