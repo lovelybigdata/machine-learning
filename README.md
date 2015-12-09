@@ -198,3 +198,4 @@
 * [Naive Particle Smoothing is Degenerate](https://idontgetoutmuch.wordpress.com/2015/12/06/naive-particle-smoothing-is-degenerate/)
 * [Add ALL the Things: Abstract Algebra Meets Analytics](http://www.infoq.com/presentations/abstract-algebra-analytics#.VmabF3UJklw.twitter)
 * [ストリームデータ解析の世界](http://takuti.me/note/data-stream-mining/)
+* [openalpr/openalpr](https://github.com/openalpr/openalpr)
