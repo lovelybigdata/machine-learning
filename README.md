@@ -200,3 +200,4 @@
 * [ストリームデータ解析の世界](http://takuti.me/note/data-stream-mining/)
 * [openalpr/openalpr](https://github.com/openalpr/openalpr)
 * [Exploratory Haskell](http://www.parsonsmatt.org/programming/2015/12/09/exploratory_haskell.html)
+* [Haskellでニューラルネットワーク](http://imokuri123.com/blog/2015/07/neural-network-in-haskell.html)
