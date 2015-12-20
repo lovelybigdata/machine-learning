@@ -99,7 +99,13 @@
 * [tf-idf](http://www.wikiwand.com/ja/Tf-idf)
 * [文法圧縮入門：超高速テキスト処理のためのデータ圧縮（NLP2014チュートリアル）](http://www.slideshare.net/marugorithm/nlp2014)
 * [意味の意味が分からない](http://rekken.g.hatena.ne.jp/murawaki/20140206/p1)
-* [日本語形態素解析システム JUMAN](http://nlp.ist.i.kyoto-u.ac.jp/index.php?JUMAN)* [Latent Dirichlet Allocation(LDA)を用いたニュース記事の分類](http://developer.smartnews.com/blog/2013/08/19/lda-based-channel-categorization-in-smartnews/)
+* [日本語形態素解析システム JUMAN](http://nlp.ist.i.kyoto-u.ac.jp/index.php?JUMAN)
+* [Latent Dirichlet Allocation(LDA)を用いたニュース記事の分類](http://developer.smartnews.com/blog/2013/08/19/lda-based-channel-categorization-in-smartnews/)
+* [The edit-distance package](http://hackage.haskell.org/package/edit-distance)
+* [Colada: (Word) Classes with Online LDA](https://bitbucket.org/gchrupala/colada)
+* [The colada package](https://hackage.haskell.org/package/colada)
+* [The swift-lda package](https://hackage.haskell.org/package/swift-lda)
+* [The Functional Morphology Library](http://www.cse.chalmers.se/alumni/markus/FM_Tech_Report.pdf)
 
 ##画像処理
 * [画像認識の初歩、SIFT,SURF特徴量](http://www.slideshare.net/lawmn/siftsurf)
