@@ -209,3 +209,4 @@
 * [Haskellでニューラルネットワーク](http://imokuri123.com/blog/2015/07/neural-network-in-haskell.html)
 * [Interesting things at NIPS 2015](http://hunch.net/?p=3001617)
 * [60分でわかる仮説検定](http://elsur.jpn.org/resource/t-test.pdf)
+* [サンプリング手法について(自分なりに)わかりやすく書くよ！](http://qiita.com/ysekky/items/16cd279c9be0dfb75217)
